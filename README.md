@@ -1,5 +1,3 @@
-# learning-with-ai
-OBJETIVO: Documentar proceso real, día a día, usando IA.
 # Learning with AI – Personal Log
 
 This repository documents my daily process of learning and working with AI,
